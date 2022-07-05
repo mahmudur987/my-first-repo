@@ -13,8 +13,14 @@ h2 {
     font-size: 50px;
 }
 
+h3 {
+    text-align: center;
+    font-size: 40px;
+    ;
+}
+
 p {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .ski {
@@ -22,7 +28,7 @@ p {
     font-weight: 900;
 }
 
-img {
+#fastpic {
     height: 600px;
     width: 90%;
 }
@@ -56,10 +62,13 @@ img {
 
 .sec2 {
     display: flex;
-    background-color: aqua;
     height: 700px;
 }
 
+#myimage {
+    height: 700px;
+
+}
 
 .seconddivs {
     width: 100%;
@@ -68,4 +77,80 @@ img {
 
 .seconddivss {
     margin-left: 80px;
+    width: 80%;
+    padding: 5%;
+    margin: 5%;
+}
+
+.sec3 {
+    ;
+    display: block;
+
+
+
+}
+
+.bigdiv {
+    display: inline-flex;
+    height: 700px;
+    width: 100%;
+
+
+}
+
+.thireddivs {
+    background-color: white;
+    box-shadow: 10px 10px 30px bisque;
+    width: 100%;
+    padding: 5%;
+    margin: 5%;
+    border-radius: 20px;
+}
+
+.picture {
+    height: 300px;
+    width: 100%;
+    border: 10px;
+
+}
+
+.thireddivss {
+    background-color: white;
+    box-shadow: 10px 10px 30px beige;
+    width: 100%;
+    padding: 5%;
+    margin: 5%;
+    border-radius: 20px;
+
+}
+
+.lastpera {
+    text-align: center;
+    font-size: 15px;
+}
+
+.lastdivs {
+    display: flex;
+    background-color: white;
+
+}
+
+span {
+    width: 300px;
+    margin: 100px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: darkblue;
+    color: antiquewhite;
+    font-size: 10px;
+}
+
+h6 {
+    font-size: 25px;
+    color: gray;
 }
