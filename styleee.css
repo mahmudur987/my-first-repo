@@ -1,4 +1,71 @@
-p {
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+
+h2 {
     font-size: 50px;
-    background-color: aquamarine;
+}
+
+p {
+    font-size: 15px;
+}
+
+.ski {
+    color: red;
+    font-weight: 900;
+}
+
+img {
+    height: 600px;
+    width: 90%;
+}
+
+.sec1 {
+    display: inline-flex;
+    width: 100%;
+    margin: 5%;
+    height: 600px;
+
+}
+
+.divs {
+    font-size: larger;
+    text-align: left;
+    margin-right: 100px;
+}
+
+.foods {
+    text-decoration: none;
+    background-image: -moz-linear-gradient();
+    background-color: coral;
+    font-weight: 800;
+    border-radius: 5px;
+    color: black;
+}
+
+.divss {
+    margin-left: 200px;
+}
+
+.sec2 {
+    display: flex;
+    background-color: aqua;
+    height: 700px;
+}
+
+
+.seconddivs {
+    width: 100%;
+    margin-right: 50px;
+}
+
+.seconddivss {
+    margin-left: 80px;
 }
